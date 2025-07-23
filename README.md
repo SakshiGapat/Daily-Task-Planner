@@ -11,7 +11,6 @@ A desktop-based Daily Planner built using Java Swing. It allows users to add, de
 - ✅ Sort tasks by due date
 - ✅ Attractive and modern UI styling using Swing components
 - ✅ Sample tasks preloaded on startup (for testing)
-- ❌ No database required (fully offline app)
 
 ---
 
